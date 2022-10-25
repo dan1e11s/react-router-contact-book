@@ -1,0 +1,22 @@
+{
+  "contacts": [
+    {
+      "id": 1666438749109,
+      "name": "Kate",
+      "number": "321235475475",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg"
+    },
+    {
+      "id": 1666438799429,
+      "name": "Jack",
+      "number": "123",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg"
+    },
+    {
+      "id": 1666438817055,
+      "name": "John",
+      "number": "123123123",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gull_portrait_ca_usa.jpg"
+    }
+  ]
+}
